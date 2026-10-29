@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /Bhagirath-webmaker/panel/
+Disallow: /Bhagirath-webmaker/cart/
+Disallow: /Bhagirath-webmaker/checkout/
+
+User-agent: Mediapartners-Google
+Allow: /
+
+Sitemap: https://karenajatin.github.io/sitemap.xml
